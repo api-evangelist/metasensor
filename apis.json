@@ -1,0 +1,45 @@
+{
+    "name": "MetaSensor",
+    "description": "",
+    "image": "",
+    "tags": [
+        "api provider",
+        "have api",
+        "sensors"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/metasensor\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MetaSensor",
+            "description": null,
+            "image": "",
+            "humanURL": "https:\/\/www.metasensor.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/metasensor-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/metasensor-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/metasensor"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.metasensor.com"
+        }
+    ]
+}
